@@ -1,0 +1,36 @@
+body {
+    /* background-image: url(https://wallpaperplay.com/walls/full/d/8/4/238893.jpg); */
+    background-size: cover;
+}
+
+#recent-searches {
+    width: 18rem;
+}
+
+.container {
+    padding-left: 6px;
+    padding-right: 6px;
+}
+
+.list-group-item {
+    cursor: pointer;
+    background-color: #dde2e8;
+}
+
+.list-group-item:hover{
+    color: #2780e3;
+}
+
+h2 {
+    color: white;
+    background-color: #343a40;
+    text-align: center;
+}
+
+#forecast-title {
+    width: 96%;
+}
+
+.jumbotron {
+    width: 96%;
+}
