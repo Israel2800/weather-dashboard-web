@@ -169,7 +169,7 @@ $(document).ready(function() {
   
 	  cities.push(cityObj);
   
-	  // Save to localStorage
+	  // Save to localStorage with JSON
 	  localStorage.setItem("searches", JSON.stringify(cities));
 	}
   
