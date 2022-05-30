@@ -5,7 +5,7 @@ This website is designed for all users who want to know the weather conditions t
 
 ## Built With
 * HTML
-* CSS
+* CSS 
 * JavaScript
 
 ## Website
@@ -15,7 +15,7 @@ https://israel2800.github.io/weather-dashboard-challenge/
 https://github.com/Israel2800/weather-dashboard-challenge
 
 ## Screenshots
-![Screenshot of the web application when you open it.](images/screenshot-1.png)
+![Screenshot of the web application when you open it, you will see the "Search for a City" option.](images/screenshot-1.png)
 
 ![Screenshot of the web application with an example of searching for a city with its weather (five days forecast).](images/screenshot-2.png)
 
