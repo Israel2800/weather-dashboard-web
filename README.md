@@ -1,4 +1,4 @@
-# Weather Dashboard Challenge
+# Weather Dashboard Web
 
 ## Purpose
 This website is designed for all users who want to know the weather conditions to determine what activities they will be able to do outdoors, it also helps you to perfectly plan your weather related activities because the webpage will give you a five day forecast showing you the weather of those respective days.
