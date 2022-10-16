@@ -9,10 +9,10 @@ This website is designed for all users who want to know the weather conditions t
 * JavaScript
 
 ## Website
-https://israel2800.github.io/weather-dashboard-challenge/
+https://israel2800.github.io/weather-dashboard-web/
 
 ## GitHub Repository
-https://github.com/Israel2800/weather-dashboard-challenge
+https://github.com/Israel2800/weather-dashboard-web
 
 ## Screenshots
 ![Screenshot of the web application when you open it, you will see the "Search for a City" option.](images/screenshot-1.png)
